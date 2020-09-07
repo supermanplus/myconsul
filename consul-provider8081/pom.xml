@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>consul-provider8080</artifactId>
+    <artifactId>consul-provider8081</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

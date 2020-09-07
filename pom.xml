@@ -11,6 +11,8 @@
 
     <modules>
         <module>consul-provider8080</module>
+        <module>consul-provider8081</module>
+        <module>consul-consumer</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
